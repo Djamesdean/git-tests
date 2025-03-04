@@ -1,5 +1,4 @@
-print ("hello word D")
-print ("djames was here ")
+print ("hello word")
 def calculate(a, b):
     return a + b
 
